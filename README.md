@@ -1,5 +1,5 @@
 # QYVideoPlayer
-A video player.
+一个简单的视频播放器，输入视频资源地址，即可播放该视频。
 ![](https://upload-images.jianshu.io/upload_images/3265534-76009787f3bd26f7.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 最近工作之余, 写了一个视频播放器，输入要播放的视频资源地址，即可实现播放功能。
 目前功能比较简单，支持锁屏、屏幕旋转等基础功能，后续会继续完善。。。
